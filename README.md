@@ -22,4 +22,4 @@ Here the user will get recommendations, for example I recieved Giri/Haji(another
 
 This project helps you to understand Recommendation System and working of flask in a better way. Hope you all like this webapp. Cheers <3
 
-- Hari Vigneshwaran S
+-Hari Vigneshwaran S
