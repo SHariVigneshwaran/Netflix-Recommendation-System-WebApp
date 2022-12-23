@@ -3,7 +3,7 @@
 
 This is a flask based web-app which can be used to get recommendations for a tv-show/movie, the app recommends a list of media according to the user choice input. 
 
-**If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_]().**
+**If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_](https://nbviewer.org/github/SHariVigneshwaran/Netflix-Recommendation-WebApp/blob/master/Netflix-Recommendation-System.ipynb).**
 
 The dataset I will be using is from www.kaggle.com.
 
